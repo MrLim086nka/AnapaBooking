@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AnapaBooking.API/AnapaBooking.API.csproj" />
+  <Project Path="AnapaBooking.Application/AnapaBooking.Application.csproj" />
+  <Project Path="AnapaBooking.Domain/AnapaBooking.Domain.csproj" />
+  <Project Path="AnapaBooking.Infrastructure/AnapaBooking.Infrastructure.csproj" />
+</Solution>
